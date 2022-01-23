@@ -1,6 +1,6 @@
 import React, {useState} from "react";
 import "./Home.css";
-import logo from "./img/logo.png";
+import logo from "./img/Prama-logos_white.png";
 
 function Home() {
   // fixed Header
